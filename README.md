@@ -2,9 +2,9 @@
 Portfolio insurance: OBPI vs CPPI
 
 ### Group members:
-Ugo ESCATO
-Aurore CLEVENOT
-Ludovic VINCENTI
+Ugo ESCATO  
+Aurore CLEVENOT  
+Ludovic VINCENTI  
 
 ## Overview  
 This repository contains the research and implementation for our **Applied Master Project** on portfolio insurance strategies. The project compares **Option-Based Portfolio Insurance (OBPI)** and **Constant Proportion Portfolio Insurance (CPPI)** in terms of risk, performance, and practical application for investors.  

@@ -1,4 +1,4 @@
-# Applied Master Project: Portfolio Insurance – OBPI vs CPPI
+# Portfolio Insurance – OBPI vs CPPI
 
 ## Group Members
 

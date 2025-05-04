@@ -35,17 +35,18 @@ We assess the **risk**, **performance**, and **practical application** of these 
 ### 2. Simulated Framework
 
 - Monte Carlo simulations to assess strategy robustness using:
-  - **Geometric Brownian Motion (GBM)**
-  - **Stochastic Volatility Models**
-  - **Merton Jump Diffusion Models**
+  - Geometric Brownian Motion (GBM)
+  - Stochastic Volatility Model
+  - Merton Jump Diffusion Model
 
 ### 3. Additional Considerations
 
-- Strategy enhancements:
-  - **Maximum-Drawdown CPPI**
-  - **Leveraged OBPI**
 - Sensitivity analysis on:
   - Rebalancing frequency  
   - Volatility levels  
   - Strike/floor levels  
   - CPPI multiplier values
+    
+- Strategy enhancements:
+  - Maximum-Drawdown CPPI
+  - Leveraged OBPI
